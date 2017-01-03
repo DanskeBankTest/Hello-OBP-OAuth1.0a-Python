@@ -6,7 +6,7 @@ You most likely need to edit a few of them, e.g. API_HOST and the OAuth
 credentials.
 """
 
-# Get the OAuth credentials prior from the API, e.g.
+# Get the OAuth credentials prior from the API, e.g. Test comment2
 # https://apisandbox.openbankproject.com/consumer-registration
 CLIENT_KEY = ''
 CLIENT_SECRET = ''
@@ -18,7 +18,7 @@ CALLBACK_URL = 'http://i_dont_exist'
 
 # API host to talk to
 API_HOST = 'http://127.0.0.1:8080'
-#API_HOST = 'https://apisandbox.openbankproject.com'
+#API_HOST = 'https://danskebank.openbankproject.com'
 
 # API version to use
 API_VERSION = '2.1.0'
